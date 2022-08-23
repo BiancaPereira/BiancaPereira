@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div align="center">
+  <img src="header.png" style="margin-bottom: 5px;" />
+</div>  
 
 ## Skills
 <div align="center">  
